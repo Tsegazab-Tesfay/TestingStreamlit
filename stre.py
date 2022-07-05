@@ -120,3 +120,5 @@ with annotatedText:
         ("thing", "noun", "#afa"),
         "."
     )
+
+    print("Check some changes...")
